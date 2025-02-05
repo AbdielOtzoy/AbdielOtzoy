@@ -2,7 +2,7 @@
 
 - 🎓 I am a third-year `Software Engineering` student at the [University of San Carlos (USAC)](https://www.usac.edu.gt/).  
 - 💻 Passionate about `technology` and building impactful `software solutions`.  
-- 🚀 Proficient in `Next.js`, `NestJS`, and `Supabase`, with experience in backend and frontend integration.  
+- 🚀 Proficient in `Next.js` and `NestJS` with experience in backend and frontend integration.  
 - 🛠️ Currently working on a `personal projects` to enhance my skills in modern web technologies.  
 - 🎵 Music enthusiast who finds inspiration in coding while enjoying favorite tunes.  
 - ⚽ Active lifestyle advocate who balances `sports` with a love for coding.  

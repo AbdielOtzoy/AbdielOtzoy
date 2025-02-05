@@ -7,7 +7,7 @@
 - 🎵 Music enthusiast who finds inspiration in coding while enjoying favorite tunes.  
 - ⚽ Active lifestyle advocate who balances `sports` with a love for coding.  
 - 📚 Constantly learning and exploring new tools, frameworks, and programming paradigms.  
-- 🌐 Discover more about me on my [PORTFOLIO WEBSITE](#).  
+- 🌐 Discover more about me on my [PORTFOLIO WEBSITE](https://abdielotzoy.vercel.app/).  
 
 
 

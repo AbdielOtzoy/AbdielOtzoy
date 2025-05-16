@@ -4,8 +4,6 @@
 - 💻 Passionate about `technology` and building impactful `software solutions`.  
 - 🚀 Proficient in `Next.js` and `NestJS` with experience in backend and frontend integration.  
 - 🛠️ Currently working on a `personal projects` to enhance my skills in modern web technologies.  
-- 🎵 Music enthusiast who finds inspiration in coding while enjoying favorite tunes.  
-- ⚽ Active lifestyle advocate who balances `sports` with a love for coding.  
 - 📚 Constantly learning and exploring new tools, frameworks, and programming paradigms.  
 - 🌐 Discover more about me on my [PORTFOLIO WEBSITE](https://abdielotzoy.vercel.app/).  
 
@@ -15,7 +13,7 @@
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cpp,qt,html,css,js,express,java,mongodb,nestjs,nextjs,nodejs,py,react,supabase,tailwind,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cpp,qt,html,css,js,express,java,mongodb,nestjs,nextjs,nodejs,py,react,aws,docker,tailwind,ts,vscode" />
   </a>
 </p>
 

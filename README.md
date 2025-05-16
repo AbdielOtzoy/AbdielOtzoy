@@ -13,7 +13,7 @@
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cpp,qt,html,css,js,express,java,mongodb,nestjs,nextjs,nodejs,py,react,aws,docker,tailwind,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cpp,qt,html,css,js,express,java,mongodb,nestjs,nextjs,nodejs,py,react,aws,tailwind,ts,vscode" />
   </a>
 </p>
 

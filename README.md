@@ -17,9 +17,4 @@
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdielOtzoy&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdielOtzoy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</br></br>
 	

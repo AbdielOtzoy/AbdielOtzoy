@@ -2,7 +2,7 @@
 
 - 🎓 I am a `Software Engineering` student at the [University of San Carlos (USAC)](https://www.usac.edu.gt/).  
 - 🚀 Proficient in `Go` and `NestJS` with experience in backend and frontend integration.  
-- 🛠️ Currently working at[TuControl](https://tucontrol.com/) providing support and implementing new features for an invoicing system. .  
+- 🛠️ Currently working at [TuControl](https://tucontrol.com/) providing support and implementing new features for an invoicing system. .  
 - 📚 Constantly learning and exploring new tools, frameworks, and programming paradigms.  
 - 🌐 Discover more about me on my [PORTFOLIO WEBSITE](https://abdielotzoy.vercel.app/).  
 
